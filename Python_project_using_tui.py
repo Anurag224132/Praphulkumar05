@@ -17,6 +17,10 @@ def square(a):
     return a*a
 def sin(a):
     return m.sin(a)
+def tan(a):
+    return m.tan(a)
+def cot(a):
+    return m.cot(a)
 def cos(a):
     return m.cos(a)
 def tan(a):
